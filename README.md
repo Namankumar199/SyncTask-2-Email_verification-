@@ -1,6 +1,6 @@
 # SyncTask-2-Email_verification-
 <hr style="width:5px;height:3px:color:red;">
-<h3> OTP Verification is the process of verifying a user by sending 
+<h3 style="color:red;"> OTP Verification is the process of verifying a user by sending 
 a unique password so that the user can be verified before 
 completing a registration or payment process. Most of the 
 time, we get an OTP when we make an online payment, or 
